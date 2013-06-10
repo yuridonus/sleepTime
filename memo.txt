@@ -4,3 +4,4 @@ http://kotas.hatenablog.jp/entry/2012/11/22/000046
 http://git-scm.com/book/ja
 http://www.plowman.co.jp/school/Git/Git.html
 あと「gitを使いこなすための20のコマンド」　とか。
+tortoiseGit経由だと日本語で書ける
